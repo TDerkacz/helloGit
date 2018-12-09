@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 bla
 bla bla  
 bla bla bla
-=======
-bla bla  
->>>>>>> parent of 27f102d... plik - 2 linijka
